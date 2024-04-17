@@ -1,3 +1,5 @@
+![banner](https://i.pinimg.com/originals/ec/80/2e/ec802e6b1580aaf27fc1a9f1a749a0b8.gif)
+
 <h1 align="center">Hi 👋, I'm Kerogs</h1>
 <h3 align="center">Web Developer and Self-Hosting Enthusiast</h3>
 
@@ -14,6 +16,8 @@
 - 📫 How to reach me **kerogsinfinte@gmail.com**
 
 - ⚡ Fun fact **I'm passionate about exploring self-hosted solutions and enjoy diving into new technologies!**
+
+![banner](https://i.pinimg.com/originals/e9/f1/12/e9f112d5f034f8305e3badc22aeb13fb.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
