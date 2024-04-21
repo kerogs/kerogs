@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kerogs</h1>
+<h1 align="center">Hi, I'm <span style="color:#6db7f0;">Kerogs</span> 👋</h1>
 
 ###
 
-<img align="right" height="340" src="https://github.com/kerogs/kerogs/blob/main/.ksinf/ksm-icon.png?raw=true"  />
-
-###
-
-<p align="left">🔭 I’m currently working on Magpie and B.R.A.S.<br><br>🌱 I’m currently learning Docker, Ruby (including RoR), and deepening my understanding of C++.<br><br>👨‍💻 All of my projects are available at My GitHub.<br><br>💬 Ask me about Web development, PHP, SCSS, Docker, Ruby, and C++.<br><br>📫 How to reach me: kerogsinfinte@gmail.com<br><br>⚡ Fun fact: I'm passionate about exploring self-hosted solutions and enjoy diving into new technologies!</p>
+<p align="left">
+🔭 I’m currently working on <a href="https://github.com/kerogs/Magpie"><img alt="ksmicon" src=".ksinf/ksm-icon.png" height=14> Magpie</a> and B.R.A.S.<br>
+🌱 I’m currently learning Docker, Ruby, and deepening my understanding of C++.<br>
+👨‍💻 All of my projects are available at My GitHub.
+</p>
 
 ###
 
@@ -47,7 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
 
 ###
@@ -67,22 +66,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="350" src="https://github.com/kerogs/kerogs/blob/main/.ksinf/wlp-magpiesys.png?raw=true"  />
-</div>
-
-###
-
-<div align="right">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ###
