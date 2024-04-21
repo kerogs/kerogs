@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#6db7f0;">Kerogs</span> 👋</h1>
+<h1 align="center">Hi 👋, I'm Kerogs!</h1>
 
 ###
 
