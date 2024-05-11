@@ -2,15 +2,9 @@
 
 ###
 
-<p align="left">
-🔭 I’m currently working on <a href="https://github.com/kerogs/Magpie"><img alt="ksmicon" src=".ksinf/ksm-icon.png" height=14> Magpie</a> and B.R.A.S.<br>
-🌱 I’m currently learning Docker, Ruby, and deepening my understanding of C++.<br>
-👨‍💻 All of my projects are available at My GitHub.
+<p align="center">
+🔭 I’m currently working on <a href="https://github.com/kerogs/Magpie"><img alt="ksmicon" src=".ksinf/ksm-icon.png" height=14> Magpie</a> and B.R.A.S.
 </p>
-
-###
-
-<br clear="both">
 
 <h2 align="center">"The best inventions are the ones that start with 'hold my beer and watch this."</h2>
 
@@ -37,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -66,7 +60,21 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="12" />
+  <img src=".ksinf/proxmox.svg" height="30" alt="Proxmox logo"  />
 </div>
+
+###
+
+<h2 align="center">My product</h2>
+
+<div align="center">
+  <img width="12" />
+  <img src=".ksinf/ksinfinite.svg" height="30" alt="Proxmox logo"  />
+  <img width="12" />
+  <img src=".ksinf/ksmagpie.svg" height="30" alt="Proxmox logo"  />
+  <img width="12" />
+</div>
+
 
 ###
 
