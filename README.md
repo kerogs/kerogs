@@ -1,12 +1,21 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/kerogs">Kerogs</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/kerogs">Kerogs</a> 👋</h1> &
 
 ###
 
-<p align="center">
-🔭 I’m currently working on <a href="https://github.com/kerogs/Magpie"><img alt="ksmicon" src=".ksinf/ksm-icon.png" height=14> Magpie</a> and B.R.A.S.
-</p>
+<div align="center">
 
-<h2 align="center">"The best inventions are the ones that start with 'hold my beer and watch this."</h2>
+|Category|Tool/Library|
+|:-------|:-----------|
+|Programming Languages| ![C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff) ![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=000) ![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=fff) ![LabVIEW](https://img.shields.io/badge/labview-%23FFDB00?style=for-the-badge&logo=labview&logoColor=000)|
+|Web development|![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=fff) ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=fff) ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=SASS&logoColor=fff) ![Static Badge](https://img.shields.io/badge/html-%23E34F26?style=for-the-badge&logo=html5&logoColor=fff) |
+|Documentation|![Static Badge](https://img.shields.io/badge/vitepress-%235C73E7?style=for-the-badge&logo=vitepress&logoColor=fff)|
+|IDE|![Static Badge](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=fff) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff)|
+|Operating Systems|![Static Badge](https://img.shields.io/badge/Windows-%230078D4?style=for-the-badge&logo=windows&logoColor=fff) ![Static Badge](https://img.shields.io/badge/kali-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=fff) ![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=fff) ![Static Badge](https://img.shields.io/badge/proxmox-%23E57000?style=for-the-badge&logo=proxmox&logoColor=fff)|
+|FPGA Boards and microcontrollers|![Static Badge](https://img.shields.io/badge/arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=fff) ![Static Badge](https://img.shields.io/badge/esphome-%23000000?style=for-the-badge&logo=esphome&logoColor=fff) ![Static Badge](https://img.shields.io/badge/raspberry%20pi-%23A22846?style=for-the-badge&logo=raspberrypi&logoColor=fff)|
+|Tools| ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=fff)|
+|Groups|![ksinfinite](https://img.shields.io/badge/KSInfinite-4e42d4.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA0CAYAAAA62j4JAAAFaUlEQVRogc2bCahWRRTHf+ZuoZVJUlZWlgiKJWpCJWJ7iBbZvmgokaglLShBCEVpJhEGSSJB5dIiGC1ie5hWlpTmizClVSQSwtKe2lP/cV7nyufX+5Y7c+/9/MP94N2Zc2bm3Jkz/zlzXjtJG0mPycCGALly3Ao8WKFsP7C3iuwh4CtgpuvpAXwCfONl9UFhGCWJyOd6SQcD2zdsl3SmpFll73+XtFjSyHr61ygDjJX0T+Tg+0maVqPeJkk3SGp3NBlgdOTgd0oaJGlKCpkvJQ1rqz/HZLCO0+Ai4C2gY6D8LmA0MBh4NoXcUOBzYE5520UaYBjwNtA1UP4v4EpgAPBCgLyNdRbwEdC79GURGASsAroHtrXXB38ysCSy3xcCnwHnFGWAfsC7wEmB8jb4MT5zXotYPqXoC3xqH6ZDBsqqoQ/wcemUS4kW4DrgALAa6JRh3+yDLM/TAL198KcGytvgxwN/+AwK9R2V8CNwTV4G6AW8B5wdKG9MboJ3ck2E76iEJuAKYEcePqCHe/uBgfIC7gCMon8IHF9SZg5wpE/fnsBw4DFgZwr95gAvtsH/11oYKhGhbpLWRpAcOcHp52yvFNOrkKsekp6pQ/cq72MuTLCTpPcD9SUwattH0k9l77fWyTLHSNpVQfdS72MuVLijpDcCdSWY5YPf1kbZyhRUe4CkX8vkF1Q6D2RhgPZu3RjMltRLUlMFHU0pzxu2hHa47Ow8T4Nm1UWRg58rqaekzTXqTUxphKGS7q5VL9YATwfKJ1jgDmx9HXVbJN1T7Wgb8sQY4PFA2QQLJXWRtCalnO0yIxptgFiHt8S/5LIIHaslXdIoA8RgqTvOsRnpM98xSVLXEAMUHRBZ5izvIHBGRjqNcS4GfnFWmOrsYdNQGXWkFqyd/sBWr3ecc/KsDJGgxaNFc4HfalUucga080hOe/97D3B7qhB2fbB4wb3ANuARoEtVqQb4gIfL1uGMnNvbIum8o8kJHpA0vKwj5bH9rNHs54T/GaBIH1AKm57n+zJIcK07sxNzajOJLr1Z+rLoXSCBxQmfKnu30j360pzaNN/wCjDkiLeFL4AjMa7C2rzAiU4e2FLKGRo1AxIsrhAwXe9h8BHACucNWeFcYEaiq1E+oBQW7b3aeUIl9PWtbbLzh1hYCO201hvoBi+BBNPqpK52cnxA0s8ZtGlUPJMlYN71RmBehI4n/cqrFv4E5nu0+U6PGofi8la5SCva/nqpf53Ofh0diq/bitnVeMyZzQtsb10sEWr2q+7STg6WtD9C5xOBx9qpAW1ZyCzYAG0NPnlmBuo0HIrIPfgiZVu7Y7bBu/zSoi3YGl0XqNcOTC+WXYbUiw9S1u9mP6EG2F6l7KCf+f8O1G3b08IAuQMp6++2n7yI0A/AfRHyNwG3pJQZUkedUljCRa5McJEnRYTCghqnA6cAZ9XQYVvaVSnb+d5+8s4PmORRn54BsnbJ+hJwGbAWaAZe9cvN7e4vjA/cDEzxv9PAcoYKyRIbH9hGAttVBkraF6mnHK2h9SIOQyv8WjsUj/pR9qEM+9SUzICiToPTa+wc1dDRYwTPeYZXFjgciyjKAJbfNzFCfoBHeSf4eSAGG923tKLIeIARlQUR8tM8YjQ1Qkezc5TDnKHogIhldm+JkH8eeMdDW2lxyLPKN5fKFW2AfcBtAawtQW+PIk1J6VNafPCvlxc0IiS2wT17KMZ5+tyEGlGkBHZlNgp4uc3SwD00Nl2+Q505AZWwx7NA5teoM0dS9zxuh7P4h4n+fqwOhRnw2DaCMN9Kul/SCfX0w6jwpoCpWHqhEQpzhhboDPXqnT2H2Na2LYfvPKnSLl3qA/AvAbrS2uRVStYAAAAASUVORK5CYII=) ![kscomponents](https://img.shields.io/badge/KSComponents-dd2222.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAEv0lEQVRoge2aa4hVVRTHf+pYX9S0QpwCIwwrKMiRqUHtRQ96aBQ6YalQGkWEJWUSFVhRENKQRRRCU/agItEPKUXRy57GhDIVg9FDTHvZw+xaDGmtWLEuHC73nLP3uudMl5n5w/5y9lp7rf/eZ6/9WiNE5AXgIoYGNithGSJk/8NIYH8T+DFQ2K+Eh9IIy8gmcGJAMUx4sGOY8GDHMOHBjmHCgx1DkvDYJvBjwNAC7AXGZeypxTpmVAFOHQBGRMjrweZP4KiiOkSPh5OMzD8pMkp4LvBIA3Z6gU6gEkH4D+ugncAnwMvAacCsBjqgoiP8Q4DgDqcBxedAB9Dv0H3N/Ds38W00cAZwBXB1dBzS839AuVJ8+FpEJgTaqC29InIwR+Y4EXk8wrPfy4zS3wLtFiNi8T4wBRiTo/clcA0wA9gWYqMswhUj+4tD91UjcFjENPgQaAMeyBMsg7BG1dOB7x26G4HzgfHA3w79W4HlWQJFE+63ke116G4AZgOtwL4GfOgCrgJ+rldZNGH9Ffscek8DlwFHBK4aeXgK2FRPpkjCZ4cGjhp0A4uAycCvBfmyAphfr6KlIANn6SW3Q083M4uBE4Bdie8dNo/7bXrERPpVNpfro4B1+ELnOrvK9Kckvp0sIttq2t8nIt0iMjWgzbV563CjhBc5yd5r+m2Jby0isjvDWd2EzM9oc1MO2YYJL3SSvcP0Z9Z8bwtwWEw/qacd9VagrpvwYifZW0y/vU7dMYFOK1abzjgR+TRCL5jw5QmlFU6yN5j+BRkyT0Y4f7eI9ETIRxG+zhRuc5JdYvpzAmS7IkmUQniliDzrJLvAjF0codMhIuv/T8JHOsnONkPeaK6BbI2I/FYUYb3xcOwXgjDDjnnbgRMbbGsCMM82KR0NtFMpi/DhiaOhnnpmAh8V1PZ5wPW2945FxfObhZTRNXPwixJs6HTZXtYc9pbvEsbWltC+/qH3NRPhU2oMPl+Snc5mIaxleY3RN0WktQQ7IReNA0JYy3u1hm3HNqpgO7fnES5zWUpivB3uay/h9b77QeBR5x1WPfRlLIOlRel6ZWFGz+8QkTtFZHIBdi5thl+6Wp7I+eUO2nIWsufOKnuKJrxFROY6dXflkK5iqx1aPDbSTl0uwptNebetg7H67YGEq3hbRCZG2liWRjj21vIde8hSHA286AgqPcD9EfJn2uthzIth+uNfYI/pzcLrKb3W6fzt3o0c6cci2p7V6AhfApyTUvcMcGhE7yfbjMHUCNnUN+hQwlmv/0p2XaTz2F3zggj5byJkJ6ZVhBI+kFM/B7gxwqEqngPesOyDV3JkuyLaPTatosinloecqQjVJ5FuezlcD3wF/Gij+hJwKvBZRJvTU2sCg0BoBsBWZwCrnnaS3w5xLnuqs7fRoBWKacBKh946e+1Lvhz+5czWn2d79/ooeISrmOYcacXDTt1q6cvwq7Qcj41OPb37WmrpSR7clHdhWBZh3YWtceh9YFNii0NXL/dW5wmVmcVzrUXXWNwD7In8S6ZbMkwuQgl7dlLYiLU69E6yfI+bA2SXAR8HZviNDc0A0JxHTUWKhSau6o2GZs3FRNyfgCW2NmsET2YHVHE8cFdiHc/3D3r+BcBSA5D+vEfCAAAAAElFTkSuQmCC) ![fivestv](https://img.shields.io/badge/Five'sTv-000000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAA+VBMVEVHcEyc29r///+zD4D///////////////////////////////////////////////////////////////91KIlHe8DLCH////8nusX///////8yrdgUzqL///8dxLL////////////JCH9dPJQ3o9lRX63///9Ajs5NabSdFIF6HoP///////////////98HoKVF4HJCH+vD4DkAX7cA35Eg8ZpJYT///9eOpMP1JhjLIn///8zrNsstNA/j89aRJomu8NNaLMcxbFWUaNIdr1EgsZoJoVzIINSW6qMGYJfN5F/HYI4o9w7nNhiL4uaFYG1DYCnEoDICH9yPqwwAAAAO3RSTlMAAfsD9D6e9kFfxA0Y622QMQcnPyYjI0mj1N6apFSgZHc35+Wmps7n5eXltKe7ga+vr6+dsKayh6lncuglccgAAAGuSURBVFjD7ZbXcoJAFIZpipSVloJEI9g1anq19xZjef+HCRA1KKIuTjJe8F0xzO7H7tn/zIIgHqeBGHCDj1kJ/BjpAuBbzkf9JTcQnsAT/K1AiVIHwToJaAGyGW0C5nQEAitKESpoEo1caiIrHC4QeIorhACBrd6TBAjdcBTPHCBAxWAB2E/OlAG6yAt7BCKn7IwAyEv4DkFKVfamCHCss4DEDgkizSNHRjnEHyko0eyRghKHHikA2l4BZlw5zjXldggIPXSqHl8dPcyv+RTYVkfWQYDRqvYT+8UuEZzR1JT9K9J2gRK1xx1FUJazbSa4EJCEBVIJGOO3NJ3ArQ3UhxYX17vks8KjTo3P+taRRO/f6HRAN4AWvIfD17IsJxKJ52Qy+faBwy4g3Gw265VKeVxtN1q1rxdYAaIL6vVK+bPaafRrw+4t9Aqul/Pb/daw23MlqJTL4465gd7oDl5gKUB3NIAWILKlAL3B5AF6BbKlAKPJDF5wZSnAYDa9dyH4LcBkOnchsBRgNp0/wQvS6UwmHo/nctlsLBZ7hD6Fc4MzkwsD1E0/4hsPHv/JN3vxTU4WUVlLAAAAAElFTkSuQmCC) |
+
+</div>
 
 ###
 
@@ -17,64 +26,4 @@
 
 ###
 
-<h2 align="center">What I use</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="30" alt="labview logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src=".ksinf/proxmox.svg" height="30" alt="Proxmox logo"  />
-</div>
-
-###
-
-<h2 align="center">My product</h2>
-
-<div align="center">
-  <img width="12" />
-  <img src=".ksinf/ksinfinite.svg" height="30" alt="Proxmox logo"  />
-  <img width="12" />
-  <img src=".ksinf/ksmagpie.svg" height="30" alt="Proxmox logo"  />
-  <img width="12" />
-</div>
-
-
-###
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kerogs&label=Profile%20views&color=0e75b6&style=flat" alt="kerogs" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kerogs&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kerogs" /> </p>
