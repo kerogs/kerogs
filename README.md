@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/kerogs">Kerogs</a> 👋</h1>
+<img src=".ksinf/banner.png">
 
 ###
 
