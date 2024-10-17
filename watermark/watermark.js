@@ -7,6 +7,12 @@ const KerogsWatermark = (() => {
 
             let watermarkHTML = `
 
+            <!-- 
+            by : Kerogs
+            Github : https://github.com/kerogs
+            CodePen : https://codepen.io/kerogs
+            -->
+
             <style>
                 .kerogs-watermark-container{
                     position: fixed;
