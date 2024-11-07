@@ -22,6 +22,7 @@ Step by Step VSCODE setup
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [PHP Extension Pack](https://marketplace.visualstudio.com/items?itemName=xdebug.php-pack)
+- [CSS Compatibility](https://marketplace.visualstudio.com/items?itemName=vivek9patel.vscode-css-compatibility)
 
 ### Other
 - [file-tree-generator](https://marketplace.visualstudio.com/items?itemName=Shinotatwu-DS.file-tree-generator)
