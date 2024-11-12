@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/local/js/",
+        "noEmitOnError": true,
+        "target": "ES6",
+        "sourceMap": true
+    },
+    "include": [
+        "src/ts/**/*.ts",
+        "src/ts/*.ts",
+    ]
+}
