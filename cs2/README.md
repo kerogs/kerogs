@@ -5,3 +5,6 @@ cs2 config kerogs.cfg
 
 ## What is this
 Simply my autoexec configuration for CS2.
+
+# private_server.md
+command for use on private servers
