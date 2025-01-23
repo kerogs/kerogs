@@ -35,12 +35,12 @@ console.log('loading.ts -> OK');
 window.addEventListener('load', () => {
 
     let loadingLogs = document.querySelector('.loading ul') as HTMLElement;
-    loadingLogs.innerHTML += `<li>Synchronisation des données</li>`;
+    loadingLogs.innerHTML += `<li>Data synchronization</li>`;
 
     let warningOn = true;
     let warningID = 2;
 
-    loadingLogs.innerHTML += `<li>Analyse des warnings système</li>`;
+    loadingLogs.innerHTML += `<li>System warnings analysis</li>`;
     if (warningOn) {
 
         // check if cookie warning have the same value as warningID (if not, show warning)
@@ -89,7 +89,7 @@ async function nexstep() {
     let loadingLogs = document.querySelector('.loading ul') as HTMLElement;
 
     // fake timer
-    loadingLogs.innerHTML += `<li>Communication avec Rhodes Island</li>`;
+    loadingLogs.innerHTML += `<li>Communication with Rhodes Island</li>`;
 
     let allFetchSuccessful = true;  // Variable pour vérifier si tous les fetchs sont réussis
 
@@ -100,13 +100,13 @@ async function nexstep() {
         await fetch(userURLReadme)
             .then(response => {
                 if (!response.ok) {
-                    throw new Error('Erreur lors de la récupération du README');
+                    throw new Error('Erreur for README');
                 }
                 return response.text();
             })
             .then(userURLReadmeContent => {
                 console.log('[FETCH] userURLReadme -> OK');
-                loadingLogs.innerHTML += `<li>Extraction du profil [<b>Kerogs</b>]</li>`;
+                loadingLogs.innerHTML += `<li>Profile extraction [<b>Kerogs</b>]</li>`;
             })
             .catch(error => {
                 console.error('[FETCH ERROR] userURLReadme:', error);
@@ -120,13 +120,13 @@ async function nexstep() {
         await fetch(userURLReadmeOld)
             .then(response => {
                 if (!response.ok) {
-                    throw new Error('Erreur lors de la récupération du README');
+                    throw new Error('Erreur for OLD README');
                 }
                 return response.text();
             })
             .then(userURLReadmeOldContent => {
                 console.log('[FETCH] userURLReadmeOld -> OK');
-                loadingLogs.innerHTML += `<li>Récupération du profil précédent</li>`;
+                loadingLogs.innerHTML += `<li>Retrieval of the previous profile</li>`;
             })
             .catch(error => {
                 console.error('[FETCH ERROR] userURLReadmeOld:', error);
@@ -146,7 +146,7 @@ async function nexstep() {
             })
             .then(userURLContent => {
                 console.log('[FETCH] userURL -> OK');
-                loadingLogs.innerHTML += `<li>Collecte des métadonnées</li>`;
+                loadingLogs.innerHTML += `<li>Metadata collection</li>`;
             })
             .catch(error => {
                 console.error('[FETCH ERROR] userURL:', error);
@@ -166,7 +166,7 @@ async function nexstep() {
             })
             .then(userURLReposContent => {
                 console.log('[FETCH] userURLRepos -> OK');
-                loadingLogs.innerHTML += `<li>Extraction des repositories</li>`;
+                loadingLogs.innerHTML += `<li>Repositories extraction</li>`;
             })
             .catch(error => {
                 console.error('[FETCH ERROR] userURLRepos:', error);
@@ -180,13 +180,13 @@ async function nexstep() {
 
     // Si tous les fetchs ont réussi, on redirige vers /home.html
     if (allFetchSuccessful) {
-        console.log('Tous les fetchs sont réussis. Redirection...');
+        console.log('All fetches are successful. Redirecting...');
         setTimeout(() => {
-            window.location.href = './home.html';
+            window.location.href = './kerogs/home.html';
         }, 1000);  // Rediriger après 1 seconde de délai
     } else {
         loadingLogs.innerHTML += `<li><b>Une erreur est survenue. Veuillez réessayer.</b></li>`;
     }
 
-    await delay(1000);  // Délai final avant de terminer
+    await delay(1000);
 }
