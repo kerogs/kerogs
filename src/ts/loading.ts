@@ -182,7 +182,7 @@ async function nexstep() {
     if (allFetchSuccessful) {
         console.log('Tous les fetchs sont réussis. Redirection...');
         setTimeout(() => {
-            window.location.href = '/home.html';
+            window.location.href = './home.html';
         }, 1000);  // Rediriger après 1 seconde de délai
     } else {
         loadingLogs.innerHTML += `<li><b>Une erreur est survenue. Veuillez réessayer.</b></li>`;
