@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&display=swap');
+
+@import './themes/hk13';
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--background);
+    color: var(--fg);
+    font-family: 'Atkinson Hyperlegible Mono', monospace;
+    overflow: hidden;
+}
+
+a{
+    color: var(--accent);
+    text-decoration: none;
+    &:hover{
+        opacity: 0.8;
+    }
+}
+
+.ccenter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+
+    p.desc{
+        letter-spacing: 3px;
+    }
+
+    .split{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        transform: translateX(-60px);
+    }
+}
+
+button{
+    border: none;
+    padding: none;
+    background-color: transparent;
+    display: block;
+    cursor: pointer;
+
+    position: fixed;
+    top: 10px;
+    left: 10px;
+
+    svg{
+        $size:32px;
+        width: $size;
+        height: $size;
+        stroke: var(--fg);
+    }
+
+    &:hover{
+        opacity: .6;
+    }
+}
+
+.bckIcon{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+
+    svg{
+        $size:600px;
+        width: $size;
+        height: $size;
+        fill:var(--fg);
+        opacity: 0.2;
+
+        transform: rotate(-20deg) translate(100px, 310px) scale(3);
+    }
+}
