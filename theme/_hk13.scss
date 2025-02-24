@@ -1,5 +1,5 @@
 /*
- * HK13 Theme (v4.0.0)
+ * HK13 Theme (v4.2.0)
  * Theme by Keorgs
  * https://github.com/kerogs
  * 
@@ -7,52 +7,62 @@
  * Future-proof: Adaptive mode can be added later.
  */
 
-// Light Theme Colors
-$light-background: #f5f5f5;
-$light-cards: #e4e6e6;
-$light-text: #3a3a3a;
-$light-secondary-text: #494949;
-$light-accent: #fd4e2b;
-
-// Dark Theme Colors
-$dark-background: #19171a;
-$dark-cards: #201e21;
-$dark-text: #d8dee9;
-$dark-secondary-text: #2c292e;
-$dark-accent: #fd4e2b;
-
-// General Variables
-$primary: $light-accent;
-$primary-2: hsl(10, 98%, 60%);
-$primary-3: hsl(10, 98%, 48%);
-$red: #f65d46;
-$blue: hsl(217, 100%, 50%);
-$green: #7ef646;
-
-// Root Variables (for easy CSS access)
-:root {
-  --background: #{$light-background};
-  --cards: #{$light-cards};
-  --fg: #{$light-text};
-  --sfg: #{$light-secondary-text};
-  --accent: #{$light-accent};
-  --imgbg: url(assets/background.jpg);
-  --imgcol: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7));
-}
-
-// Dark Mode Support
-.darktheme {
-  --background: #{$dark-background};
-  --cards: #{$dark-cards};
-  --fg: #{$dark-text};
-  --sfg: #{$dark-secondary-text};
-  --accent: #{$dark-accent};
-  --imgcol: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85));
-}
-
-// Future Adaptive Mode (To be implemented later)
-// .adaptive {
-//   @media (prefers-color-scheme: dark) {
-//     @extend .darktheme;
-//   }
-// }
+ @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&display=swap');
+ // ? Font usage :
+ // ? font-family: 'Atkinson Hyperlegible Mono', monospace;
+ 
+ // Light Theme Colors
+ $light-background: #f5f5f5;
+ $light-cards: #e4e6e6;
+ $light-text: #3a3a3a;
+ $light-secondary-text: #494949;
+ $light-accent: #fd4e2b;
+ 
+ // Dark Theme Colors
+ $dark-background: #19171a;
+ $dark-cards: #201e21;
+ $dark-text: #d8dee9;
+ $dark-secondary-text: #2c292e;
+ $dark-accent: #fd4e2b;
+ 
+ // General Variables
+ $primary: $light-accent;
+ $primary-2: hsl(10, 98%, 60%);
+ $primary-3: hsl(10, 98%, 48%);
+ 
+ $red: #f65d46;
+ $blue: hsl(217, 100%, 50%);
+ $green: #7ef646;
+ 
+ // Root Variables (for easy CSS access)
+ :root {
+	 --background: #{$light-background};
+	 --cards: #{$light-cards};
+	 --fg: #{$light-text};
+	 --sfg: #{$light-secondary-text};
+	 --accent: #{$light-accent};
+ }
+ 
+ // Dark Mode Support
+ .darktheme {
+	 --background: #{$dark-background};
+	 --cards: #{$dark-cards};
+	 --fg: #{$dark-text};
+	 --sfg: #{$dark-secondary-text};
+	 --accent: #{$dark-accent};
+ }
+ 
+ .lighttheme {
+	 --background: #{$light-background};
+	 --cards: #{$light-cards};
+	 --fg: #{$light-text};
+	 --sfg: #{$light-secondary-text};
+	 --accent: #{$light-accent};
+ }
+ 
+ // Future Adaptive Mode (To be implemented later)
+ // .adaptive {
+ //   @media (prefers-color-scheme: dark) {
+ //     @extend .darktheme;
+ //   }
+ // }
